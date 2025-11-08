@@ -1,24 +1,28 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+# Jasmine Lee
+
+[![Followers](https://img.shields.io/github/followers/JasLee07?label=Followers&style=flat-square)](https://github.com/JasLee07)
+[![GitHub](https://img.shields.io/badge/GitHub-JasLee07-black?style=flat-square)](https://github.com/JasLee07)
 
 ## About
-👋 Heyo, I'm Jasmine. I'm a Student Technology Consultant at Smith College. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+👋 Hi, I'm **Jasmine Lee**! I'm currently a student at Smith College studying Computer Science. I'm passionate about video game development, with a focus on programming. I'm particularly interested in 2D game development but I'm open to collaborating on 3D projects as well. I also work as a Student Technology Consultant at Smith College.
+
+- 📍 Location: Northampton, Massachusetts
+- 🎓 Education: B.A in Computer Science, Smith College
+- 💼 Experience: Student Technology Consultant at Smith College
+- 🎂 Age: 18 (Born October 10, 2007)
+- 💙 Pronouns: Genderfluid
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+
+- 🎮 [IDGA Repo](https://github.com/JasLee07/IDGA_repo) — A collaborative video game project created for the IDGA game dev club
+- 👤 [README Profile](https://github.com/JasLee07/README-profile) — My GitHub profile README
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+
+- 🧰 Languages: Python, Java, C#
+- 🎯 Focus: Video Game Development, 2D Game Programming, Game Design
+- ❤️ Interests: Game Development, Indie Games, Software Engineering, Community Tech Consulting
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
